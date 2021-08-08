@@ -29,5 +29,6 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(carbon)
-## basic example code
+ppm_from_date("1996-10-29")
+#> [1] 360.13
 ```
