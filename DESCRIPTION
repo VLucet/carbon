@@ -1,5 +1,5 @@
 Package: carbon
-Title: 
+Title: Get the CO2 ppm Value Closest to a Given Date
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Valentin",
