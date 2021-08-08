@@ -1,13 +1,14 @@
 Package: carbon
-Title: What the Package Does (One Line, Title Case)
+Title: 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Valentin",
+           family = "Lucey",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "valentin.lucet@gmail.com")
+Description: Retrieves weekly CO2 ppm from the Mauna Loa observatory data hub,
+    and provides a simple function that retrieves the ppm value closest to a
+    given date.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
