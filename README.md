@@ -4,6 +4,9 @@
 ## carbon
 
 <!-- badges: start -->
+
+[![License: GPL
+v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 <!-- badges: end -->
 
 The goal of carbon is to serve as an example package for the [CSEE 2021
