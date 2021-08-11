@@ -9,6 +9,7 @@
 v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![Codecov test
 coverage](https://codecov.io/gh/VLucet/carbon/branch/main/graph/badge.svg)](https://codecov.io/gh/VLucet/carbon?branch=main)
+[![R-CMD-check](https://github.com/VLucet/carbon/workflows/R-CMD-check/badge.svg)](https://github.com/VLucet/carbon/actions)
 <!-- badges: end -->
 
 The goal of carbon is to serve as an example package for the [CSEE 2021
