@@ -2,7 +2,7 @@ pandoc: 2.7.3
 pkgdown: 1.6.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2021-08-11T19:00Z
+last_built: 2021-08-15T22:04Z
 urls:
   reference: https://vlucet.github.io/carbon/reference
   article: https://vlucet.github.io/carbon/articles
